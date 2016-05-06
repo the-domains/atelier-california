@@ -4,8 +4,15 @@
         <description><![CDATA[Atelier California ]]></description>
         <link>https://thegrid.ai/atelier-california/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 06 May 2016 16:14:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2016 16:14:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/atelier-california/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d858eb70-5496-4a39-b906-3992cece3575.jpg">]]></description>
+            <link>https://thegrid.ai/atelier-california/whispy/index.html</link>
+            <guid isPermaLink="false">0d726d81-2c5c-41a2-8d8f-88dd6c8a0034</guid>
+            <pubDate>Fri, 06 May 2016 16:14:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Short]]></title>
             <description><![CDATA[<article><h1>Short</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7a5ec5d6-18c4-42a5-87b1-80b7d814947f.png"></article>]]></description>
@@ -33,13 +40,6 @@
             <link>https://thegrid.ai/atelier-california/simplicity/index.html</link>
             <guid isPermaLink="false">6cd6a3f7-0f08-4fca-a398-b7188bacd361</guid>
             <pubDate>Fri, 06 May 2016 12:15:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d858eb70-5496-4a39-b906-3992cece3575.jpg">]]></description>
-            <link>https://thegrid.ai/atelier-california/whispy/index.html</link>
-            <guid isPermaLink="false">0d726d81-2c5c-41a2-8d8f-88dd6c8a0034</guid>
-            <pubDate>Fri, 06 May 2016 12:11:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Waves]]></title>
