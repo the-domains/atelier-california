@@ -4,8 +4,15 @@
         <description><![CDATA[Atelier California ]]></description>
         <link>https://thegrid.ai/atelier-california/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 06 May 2016 12:21:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2016 16:14:02 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/atelier-california/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Short]]></title>
+            <description><![CDATA[<article><h1>Short</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7a5ec5d6-18c4-42a5-87b1-80b7d814947f.png"></article>]]></description>
+            <link>https://thegrid.ai/atelier-california/short/index.html</link>
+            <guid isPermaLink="false">a55b3cb1-c9c6-4fe7-8918-74e357878967</guid>
+            <pubDate>Fri, 06 May 2016 16:14:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bangs]]></title>
             <description><![CDATA[<article><h1>Bangs</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/548062f9-516d-4051-ba76-cdd78657bf43.jpg"></article>]]></description>
@@ -39,13 +46,6 @@
             <description><![CDATA[<article><h1>Waves</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/66c52500-edc5-49a8-bbac-bc2cd8777676.jpg"></article>]]></description>
             <link>https://thegrid.ai/atelier-california/waves/index.html</link>
             <guid isPermaLink="false">cbecc30d-3ed9-4bd0-b6dd-755dccda9dc5</guid>
-            <pubDate>Fri, 06 May 2016 12:11:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Short]]></title>
-            <description><![CDATA[<article><h1>Short</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7a5ec5d6-18c4-42a5-87b1-80b7d814947f.png"></article>]]></description>
-            <link>https://thegrid.ai/atelier-california/short/index.html</link>
-            <guid isPermaLink="false">a55b3cb1-c9c6-4fe7-8918-74e357878967</guid>
             <pubDate>Fri, 06 May 2016 12:11:18 GMT</pubDate>
         </item>
     </channel>
