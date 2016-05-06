@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Less is more
-datePublished: '2016-05-06T12:11:18.159Z'
-dateModified: '2016-05-06T06:56:47.289Z'
+datePublished: '2016-05-06T12:15:29.003Z'
+dateModified: '2016-05-06T12:15:28.342Z'
 title: Simplicity
 author: []
 authors: []
