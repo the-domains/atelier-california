@@ -1,18 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Atelier California ]]></title>
-        <description><![CDATA[Atelier California ]]></description>
+        <title><![CDATA[ATELIER CALIFORNIA]]></title>
+        <description><![CDATA[ATELIER CALIFORNIA]]></description>
         <link>https://thegrid.ai/atelier-california/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 07 May 2016 07:24:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 May 2016 07:32:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/atelier-california/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d858eb70-5496-4a39-b906-3992cece3575.jpg">]]></description>
-            <link>https://thegrid.ai/atelier-california/whispy/index.html</link>
-            <guid isPermaLink="false">0d726d81-2c5c-41a2-8d8f-88dd6c8a0034</guid>
-            <pubDate>Sat, 07 May 2016 07:10:30 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Waves]]></title>
             <description><![CDATA[<article><h1>Waves</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/66c52500-edc5-49a8-bbac-bc2cd8777676.jpg"></article>]]></description>
