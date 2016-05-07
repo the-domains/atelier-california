@@ -1,9 +1,7 @@
-favicon: null
 name: 'Atelier California '
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.99903
+typography_spectrum: 0.5179211
 collections:
   - index:
       path: /
@@ -16,25 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.718638
-  brandStrength: 0.8688151
-  lightness: 1
   brandColors:
     - '#DBE5E7'
     - '#5F5643'
     - '#9D9A91'
     - '#22180E'
     - '#FA7FCF'
+  brandStrength: 0.8688151
+  lightness: 1
+  saturation: 0.718638
   rhythmicContrast: 0.1523297
-typography_spectrum: 0.5179211
-layout_spectrum: 0.4605735
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-cta:
-  bucket: null
-  version: null
-  domain: null
+purpose: []
