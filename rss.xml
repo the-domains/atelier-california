@@ -4,8 +4,15 @@
         <description><![CDATA[Atelier California ]]></description>
         <link>https://thegrid.ai/atelier-california/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 07 May 2016 07:10:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 May 2016 07:21:32 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/atelier-california/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Birth of Venus]]></title>
+            <description><![CDATA[<article><h1>Birth of Venus</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/96c878ed3db4f3b781450d3680c67270c0e25dce.jpg"></article>]]></description>
+            <link>https://thegrid.ai/atelier-california/birth-of-venus/index.html</link>
+            <guid isPermaLink="false">aa8cbf35-7f8d-472f-a18c-ddb26208eb4c</guid>
+            <pubDate>Sat, 07 May 2016 07:20:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d858eb70-5496-4a39-b906-3992cece3575.jpg">]]></description>
@@ -33,13 +40,6 @@
             <link>https://thegrid.ai/atelier-california/bangs/index.html</link>
             <guid isPermaLink="false">fc118e67-c70b-4cfd-a7c8-91de3b0e1b73</guid>
             <pubDate>Fri, 06 May 2016 12:21:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Birth of Venus]]></title>
-            <description><![CDATA[<article><h1>Birth of Venus</h1><p>Boticelli</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/96c878ed3db4f3b781450d3680c67270c0e25dce.jpg"></article>]]></description>
-            <link>https://thegrid.ai/atelier-california/birth-of-venus/index.html</link>
-            <guid isPermaLink="false">aa8cbf35-7f8d-472f-a18c-ddb26208eb4c</guid>
-            <pubDate>Fri, 06 May 2016 12:16:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Simplicity]]></title>
