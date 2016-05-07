@@ -6,8 +6,8 @@ isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-07T07:33:33.383Z'
-dateModified: '2016-05-07T07:30:45.497Z'
+datePublished: '2016-05-07T07:35:31.548Z'
+dateModified: '2016-05-07T07:35:29.051Z'
 title: Birth of Venus
 author:
   - name: ''
@@ -18,7 +18,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: true
+starred: false
 sourcePath: _posts/2016-05-06-birth-of-venus.md
 _type: Blurb
 
