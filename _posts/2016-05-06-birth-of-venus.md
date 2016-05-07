@@ -1,12 +1,13 @@
 ---
-inFeed: false
-hasPage: true
-inNav: true
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-07T07:27:36.070Z'
-dateModified: '2016-05-07T07:27:10.968Z'
+datePublished: '2016-05-07T07:33:33.383Z'
+dateModified: '2016-05-07T07:30:45.497Z'
 title: Birth of Venus
 author:
   - name: ''
@@ -17,10 +18,9 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
+starred: true
 sourcePath: _posts/2016-05-06-birth-of-venus.md
-url: birth-of-venus/index.html
-_type: WebPage
+_type: Blurb
 
 ---
 # Birth of Venus
