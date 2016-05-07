@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: Boticelli
-datePublished: '2016-05-06T12:16:00.808Z'
-dateModified: '2016-05-06T12:16:00.332Z'
+description: ''
+datePublished: '2016-05-07T07:20:57.604Z'
+dateModified: '2016-05-07T07:20:02.694Z'
 title: Birth of Venus
 author: []
 authors: []
@@ -22,6 +22,6 @@ _type: Article
 
 ---
 # Birth of Venus
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b90e2815-002f-48de-bd0e-503babb0585e.jpg)
 
-Boticelli
+Sandro Botticelli
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b90e2815-002f-48de-bd0e-503babb0585e.jpg)
