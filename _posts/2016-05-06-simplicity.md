@@ -1,12 +1,13 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: Less is more
-datePublished: '2016-05-06T12:15:29.003Z'
-dateModified: '2016-05-06T12:15:28.342Z'
+datePublished: '2016-05-07T07:33:15.311Z'
+dateModified: '2016-05-07T07:33:11.869Z'
 title: Simplicity
 author: []
 authors: []
@@ -17,8 +18,7 @@ publisher:
   favicon: null
 starred: false
 sourcePath: _posts/2016-05-06-simplicity.md
-url: simplicity/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Simplicity
