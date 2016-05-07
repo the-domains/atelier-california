@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-07T07:20:57.604Z'
-dateModified: '2016-05-07T07:20:02.694Z'
+datePublished: '2016-05-07T07:22:12.757Z'
+dateModified: '2016-05-07T07:21:34.547Z'
 title: Birth of Venus
-author: []
+author:
+  - name: ''
+    url: ''
 authors: []
 publisher:
   name: null
@@ -24,4 +26,4 @@ _type: Article
 # Birth of Venus
 
 Sandro Botticelli
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b90e2815-002f-48de-bd0e-503babb0585e.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/96c878ed3db4f3b781450d3680c67270c0e25dce.jpg)
